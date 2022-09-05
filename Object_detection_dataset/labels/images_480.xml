@@ -1,0 +1,26 @@
+<annotation>
+	<folder>main_dataset_update</folder>
+	<filename>images_480.jpg</filename>
+	<path>D:\giann\Documents\Machine_learning\PhD_project\Dataset\custom_dataset\main_dataset_update\IMG_20201201_120053.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>lead_block</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1005</xmin>
+			<ymin>1285</ymin>
+			<xmax>2147</xmax>
+			<ymax>2541</ymax>
+		</bndbox>
+	</object>
+</annotation>
