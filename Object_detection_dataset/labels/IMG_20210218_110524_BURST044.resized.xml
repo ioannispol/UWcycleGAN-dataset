@@ -1,0 +1,25 @@
+<annotation>
+  <folder>IMG</folder>
+  <filename>IMG_20210218_110524_BURST044.resized.jpg</filename>
+  <source>
+    <database>Unknown</database>
+    <annotation>Unknown</annotation>
+    <image>Unknown</image>
+  </source>
+  <size>
+    <width>2000</width>
+    <height>1500</height>
+    <depth></depth>
+  </size>
+  <segmented>0</segmented>
+  <object>
+    <name>flange</name>
+    <occluded>0</occluded>
+    <bndbox>
+      <xmin>3.44</xmin>
+      <ymin>0.0</ymin>
+      <xmax>1429.64</xmax>
+      <ymax>1498.95</ymax>
+    </bndbox>
+  </object>
+</annotation>
